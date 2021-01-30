@@ -3,5 +3,4 @@ Travel and Tourism Domain
 
 
 Website link after hosting on GoDaddy
-Updated Link
 https://a9n.9e3.myftpupload.com/
